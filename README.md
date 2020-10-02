@@ -30,7 +30,10 @@
 
   ## Usage
 
-  For use: Feel free to navigate the app using the link provided
+  For use: Feel free to navigate the app using the link provided. Use the Get Started button to go to the notes section.
+
+  <img src="./public/assets/screenshots/homePicture.png">
+  <img src="./public/assets/screenshots/notePicture.png">
   
   ## License
 
