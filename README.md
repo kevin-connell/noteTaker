@@ -1,9 +1,11 @@
 # Note Taker
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+  Deployed: https://shielded-shore-00169.herokuapp.com/
+
   ## Description
 
-  This application allowes the user to save and delete personal notes to help with their busy lives.
+  This application allows the user to save and delete personal notes to help with their busy lives.
 
   ## Table of Contents
 
